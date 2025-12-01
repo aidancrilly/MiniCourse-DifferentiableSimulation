@@ -26,7 +26,7 @@ The course aims to teach how we can use automatic differentiation (a tool develo
 
 The course includes lecture material and four Google colab notebooks:
 
- - An introduction to JAX: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidancrilly/MiniCourse-DifferentiableSimulation/blob/main/00_JAXIntro.ipynb)
+ - An introduction to JAX: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidancrilly/MiniCourse-DifferentiableSimulation/blob/main/00_JAXIntro.ipynb) (and extended version [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidancrilly/MiniCourse-DifferentiableSimulation/blob/main/Extended00_JAXIntro.ipynb))
 
  - Computational graphs and implementing adjoint methods by hand: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidancrilly/MiniCourse-DifferentiableSimulation/blob/main/01_ComputationalGraphsAndAdjointMethods.ipynb)
 
